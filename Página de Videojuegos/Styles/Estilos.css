@@ -1,0 +1,95 @@
+
+.TopBar {
+    width: 98.86%;
+    padding-top:50px;
+    border:none solid black;
+    background-color: #000;
+    position: absolute;
+    box-shadow:12px 20px 90px;
+    opacity:0.9;
+}
+
+ul {
+    float: right;
+}
+.TopBarText{
+    position:absolute;
+    top: 1%;
+    left:1%;
+}
+
+.TopBarText li{
+    float: left;
+    color: white;
+    width: 90px;
+    text-align: left;
+    font-weight: 100;
+    opacity: 0.7;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+.TopBarText li:hover {
+color:#ff4c4c;
+opacity: 1;
+cursor: pointer;
+}
+.TextMainPage {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+.ImageMainPage {
+    position: absolute;
+    top: 31%;
+    left: 5%;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.TextSizeMain {
+    font-size: 25px;
+}
+
+.TextSize {
+    font-size: 25px;
+    text-align: justify;
+    width: 50%;
+    letter-spacing: 2px;
+}
+
+a {
+    text-decoration: none;
+    color:white;
+}
+
+a:hover{
+    color:#ff4c4c;
+}
+
+.GbPos{
+    position: absolute;
+    top: 10%;
+    left: 1%;
+    color:rgb(216, 189, 154)
+}
+
+.Steam-img {
+    position:absolute;
+    top: 22%;
+    left: 60%;
+}
+
+.Battlenetimg {
+    position:absolute;
+    top: 18%;
+    left: 60%;
+}
+
+.Wow {
+    position:absolute;
+    top: 21%;
+    left: 62%;
+}
