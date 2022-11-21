@@ -1,4 +1,6 @@
-
+*{
+    letter-spacing: 2px;
+}
 .TopBar {
     width: 98.86%;
     padding-top:50px;
@@ -57,7 +59,6 @@ h2 {
     font-size: 25px;
     text-align: justify;
     width: 50%;
-    letter-spacing: 2px;
 }
 
 a {
