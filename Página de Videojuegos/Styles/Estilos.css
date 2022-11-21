@@ -6,7 +6,7 @@
     padding-top:50px;
     border:none solid black;
     background-color: #000;
-    position: absolute;
+    position:fixed;
     box-shadow:12px 20px 90px;
     opacity:0.9;
 }
@@ -39,11 +39,11 @@ cursor: pointer;
 .TextMainPage {
     position: absolute;
     top: 30%;
-    left: 10%;
+    left: 11%;
 }
 #ImageMainPage {
     position: absolute;
-    top: 31%;
+    top: 23%;
     margin: 5%;
 }
 
@@ -81,18 +81,21 @@ a:hover{
     position:absolute;
     top: 22%;
     left: 60%;
+    z-index: -1;
 }
 
 .Battlenetimg {
     position:absolute;
     top: 18%;
     left: 60%;
+    z-index: -1;
 }
 
 .Wow {
     position:absolute;
     top: 21%;
     left: 62%;
+    z-index: -1;
 }
 
 h2, p{
