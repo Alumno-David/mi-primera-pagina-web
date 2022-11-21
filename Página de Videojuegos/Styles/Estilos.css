@@ -58,7 +58,7 @@ h2 {
 .TextSize {
     font-size: 25px;
     text-align: justify;
-    width: 50%;
+    max-width: 50%;
 }
 
 a {
