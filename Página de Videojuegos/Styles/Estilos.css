@@ -93,3 +93,7 @@ a:hover{
     top: 21%;
     left: 62%;
 }
+
+h2, p{
+    font-family: 'Times New Roman', Times, serif;
+}
