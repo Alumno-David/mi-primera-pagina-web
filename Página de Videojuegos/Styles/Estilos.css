@@ -39,7 +39,7 @@ cursor: pointer;
     top: 30%;
     left: 10%;
 }
-.ImageMainPage {
+#ImageMainPage {
     position: absolute;
     top: 31%;
     left: 5%;
@@ -96,4 +96,8 @@ a:hover{
 
 h2, p{
     font-family: 'Times New Roman', Times, serif;
+}
+.borde {
+    border-top: #ff4c4c 1rem;
+    border-bottom: #ff4c4c 1rem;
 }
