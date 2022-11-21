@@ -42,7 +42,7 @@ cursor: pointer;
 #ImageMainPage {
     position: absolute;
     top: 31%;
-    left: 5%;
+    margin: 5%;
 }
 
 h2 {
